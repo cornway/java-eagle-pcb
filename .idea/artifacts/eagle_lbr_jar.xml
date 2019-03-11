@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="eagle_lbr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/eagle_lbr_jar</output-path>
+    <root id="archive" name="eagle_lbr.jar">
+      <element id="module-output" name="eagle_lbr" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/poi-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/poi-excelant-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/poi-ooxml-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/poi-ooxml-schemas-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/poi-scratchpad-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lbr/curvesapi-1.04.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
